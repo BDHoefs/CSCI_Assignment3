@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="AutoRental.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Auto Rental</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/AutoSelection.aspx">Auto Selection</asp:HyperLink>
+    <form id="form1" runat="server">
+    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Administrator.aspx">Administrator</asp:HyperLink>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    <footer>
+        Benjamin Hoefs
+    </footer>
+    </form>
+    </body>
+</html>

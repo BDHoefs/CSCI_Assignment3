@@ -1,0 +1,11 @@
+C:\Users\ben\Desktop\Hoefs_Assignment3\CleaningBusiness\bin\Debug\CleaningBusiness.exe.config
+C:\Users\ben\Desktop\Hoefs_Assignment3\CleaningBusiness\bin\Debug\CleaningBusiness.exe
+C:\Users\ben\Desktop\Hoefs_Assignment3\CleaningBusiness\bin\Debug\CleaningBusiness.pdb
+C:\Users\ben\Desktop\Hoefs_Assignment3\CleaningBusiness\obj\Debug\CleaningBusiness.csproj.AssemblyReference.cache
+C:\Users\ben\Desktop\Hoefs_Assignment3\CleaningBusiness\obj\Debug\CleaningBusiness.Form1.resources
+C:\Users\ben\Desktop\Hoefs_Assignment3\CleaningBusiness\obj\Debug\CleaningBusiness.Properties.Resources.resources
+C:\Users\ben\Desktop\Hoefs_Assignment3\CleaningBusiness\obj\Debug\CleaningBusiness.csproj.GenerateResource.cache
+C:\Users\ben\Desktop\Hoefs_Assignment3\CleaningBusiness\obj\Debug\CleaningBusiness.csproj.CoreCompileInputs.cache
+C:\Users\ben\Desktop\Hoefs_Assignment3\CleaningBusiness\obj\Debug\CleaningBusiness.exe
+C:\Users\ben\Desktop\Hoefs_Assignment3\CleaningBusiness\obj\Debug\CleaningBusiness.pdb
+C:\Users\ben\Desktop\Hoefs_Assignment3\CleaningBusiness\obj\Debug\CleaningBusiness.Form2.resources
